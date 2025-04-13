@@ -38,6 +38,3 @@ This notebook uses the following Python libraries:
 ## Note
 This README documents the preprocessing pipeline implemented in the notebook.  
 Follow the instructions to reproduce the workflow and prepare data for downstream machine learning tasks.
-# comp5329_assignment1
-# comp5329_assignment1
-# comp5329_assignment1
